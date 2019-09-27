@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{80603B75-431A-0C5D-1A7F-17934CAAF234}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PUE4SuitUpMechs",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
